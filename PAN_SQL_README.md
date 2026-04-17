@@ -1,6 +1,6 @@
 # PAN Number Cleaning and Validation - SQL 
 
-A comprehensive data cleaning and validation system for Indian Permanent Account Numbers (PAN) implemented in **SQL Server Express 2022 (T-SQL)**. This project processes, cleans, and validates a dataset of PAN numbers, categorizing them as valid or invalid based on official format requirements.
+A comprehensive data cleaning and validation system for Indian Permanent Account Numbers (PAN) implemented in **SQL Server Express 2022 (T-SQL)**. This project processes, cleans, and validates a dataset of PAN numbers, categorizing them as "Valid" or "Invalid" based on official format requirements. (See the included "PAN_Validation_Instructions.txt" file for the format requirements).
 
 ## Overview
 
@@ -15,7 +15,7 @@ This SQL Server implementation includes:
 
 ## PAN Format Requirements
 
-A **valid PAN number** follows this exact format:
+A **Valid PAN number** follows this exact format:
 
 ### Structure: `AAAAA1234A`
 
