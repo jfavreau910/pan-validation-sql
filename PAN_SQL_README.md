@@ -4,7 +4,7 @@ A comprehensive data cleaning and validation system for Indian Permanent Account
 
 ## Overview
 
-This SQL Server implementation includes:
+This implementation includes:
 - **Data Cleaning**: Remove duplicates, handle missing values, trim spaces, standardize case
 - **Custom Functions**: User-defined functions for character pattern validation
 - **Format Validation**: Verify PAN structure using regex and pattern matching
@@ -88,7 +88,7 @@ AAAA00000A  ❌ Wrong format (9 digits instead of 4)
 5. Click **Execute** (or press **F5**)
 
 
-#### Author: Julie Favreau, Data Analytics Team
+#### Author: J. Favreau
 
 
 
