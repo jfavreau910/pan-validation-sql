@@ -1,13 +1,13 @@
-# PAN Number Cleaning and Validation - SQL 
+# PAN Number Cleaning and Validation - SQL (EDA Project)
 
-A comprehensive data cleaning and validation system for Indian Permanent Account Numbers (PAN) implemented in **SQL Server Express 2022 (T-SQL)**. This project processes, cleans, and validates a dataset of PAN numbers, categorizing them as "Valid" or "Invalid" based on official format requirements. (See the included "PAN_Validation_Instructions.txt" file for the format requirements).
+A comprehensive data cleaning and validation system for Indian Permanent Account Numbers (PAN) implemented in **SQL Server Express 2022 (T-SQL)**. This project explores, cleans, and validates a dataset of PAN numbers, categorizing them as "Valid" or "Invalid" based on official format requirements. (See the included "PAN_Validation_Instructions.txt" file for the format requirements).
 
 ## Overview
 
 This implementation includes:
-- **Data Cleaning**: Remove duplicates, handle missing values, trim spaces, standardize case
+- **Data Cleaning**: Removed duplicates, handled missing values, trimed spaces, standardized case
 - **Custom Functions**: User-defined functions for character pattern validation
-- **Format Validation**: Verify PAN structure using regex and pattern matching
+- **Format Validation**: Verified PAN structure using regex and pattern matching
 - **Views**: SQL views for categorization and reporting
 - **Summary Reports**: T-SQL queries for comprehensive statistics
 
