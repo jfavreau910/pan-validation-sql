@@ -1,4 +1,4 @@
----PAN Number Validation Project using SQL---
+---PAN Number Validation Project using T-SQL---
 
 -- Create a table
 CREATE TABLE stg_pan_numbers_dataset
